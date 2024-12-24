@@ -1,5 +1,5 @@
 ## Hi there! 👋  
-I'm **Huijin**, a **Data Scientist** passionate about **Data Analysis, Machine Learning, and Big Data**.
+I'm **Huijin Cao**, a **Data Scientist** passionate about **Data Analysis, Machine Learning, and Big Data**.
 ---
 
 ### 🌟 Skills:
