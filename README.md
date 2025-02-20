@@ -9,7 +9,7 @@ I'm **Huijin Cao**, a **Data Scientist** passionate about **Data Analysis, Machi
 
 #### **Database Systems & Big Data**
 - MySQL, DataGrip  
-- Hadoop, Spark, Hive  
+- Hadoop, Spark, Hive, Databricks  
 
 #### **Machine Learning & AI**
 - scikit-learn, TensorFlow, XGBoost, Prophet  
